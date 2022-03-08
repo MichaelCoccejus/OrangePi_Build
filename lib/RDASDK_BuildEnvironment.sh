@@ -7,4 +7,4 @@ SCRIPTS=("OrangePiRDA_scripts" "master")
 EXTERNAL=("OrangePiRDA_external" "master")
 TOOLCHAIN=("toolchain" "arm-linux-gnueabi-1.13.1")
 
-ORANGEPI_GIT="https://github.com/orangepi-xunlong"
+ORANGEPI_GIT="https://github.com/MichaelCoccejus"
